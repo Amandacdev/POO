@@ -1,2 +1,2 @@
 # POO
-Repositório para práticas da disciplina Programação Orientada a Objetos (IFPB).
+Repositório para práticas da disciplina Programação Orientada a Objetos (IFPB). Aprendendo Java!
